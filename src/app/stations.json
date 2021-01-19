@@ -1,0 +1,48 @@
+[
+    {"city":"Hebron",
+        "stations":[
+            {"name":"Hebron radio",
+            "link":"https://shobiddak.com/radios/6"},
+            {"name":"Oroba radio",
+            "link":"https://shobiddak.com/radios/60"},
+            {"name":"Horriyah radio",
+            "link":"https://shobiddak.com/radios/14"},
+            {"name":"AL-Rabiaa radio",
+            "link":"https://shobiddak.com/radios/35"},
+            {"name":"Dreem radio",
+            "link":"https://shobiddak.com/radios/62"}
+                ]},
+    {"city":"Nablus",
+        "stations":[
+            {"name":"Quraan Kareem radio",
+            "link":"https://shobiddak.com/radios/12"},
+            {"name":"Sawt Alnajah radio",
+            "link":"https://shobiddak.com/radios/13"},
+            {"name":"Nablus radio",
+            "link":"https://shobiddak.com/radios/49"},
+            {"name":"Shabab FM",
+            "link":"https://shobiddak.com/radios/69"}
+                ]},
+    {"city":"Jerusalem",
+        "stations":[
+            {"name":"Hala radio",
+            "link":"https://shobiddak.com/radios/54"},
+            {"name":"Menbar Alquds radio",
+            "link":"https://shobiddak.com/radios/11"},
+            {"name":"Yaboos radio",
+            "link":"https://shobiddak.com/radios/67"}
+                ]},
+    {"city":"Ramallah",
+        "stations":[
+            {"name":"Ajial radio",
+            "link":"https://shobiddak.com/radios/3"},
+            {"name":"Raya radio",
+            "link":"https://shobiddak.com/radios/38"},
+            {"name":"Amwaj FM",
+            "link":"https://shobiddak.com/radios/65"},
+            {"name":"Echo FM",
+            "link":"https://shobiddak.com/radios/66"},
+            {"name":"Donia radio",
+            "link":"https://shobiddak.com/radios/61"}
+                ]}
+]
